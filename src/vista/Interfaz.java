@@ -5,7 +5,7 @@
  */
 package vista;
 
-import com.formdev.flatlaf.intellijthemes.FlatArcDarkOrangeIJTheme;
+
 import javax.swing.SwingUtilities;
 import javax.swing.UIManager;
 
